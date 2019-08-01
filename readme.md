@@ -1,1 +1,1 @@
-sms notifications example
+sms NEXMO
